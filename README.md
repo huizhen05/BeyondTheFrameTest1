@@ -4,14 +4,14 @@ An iPhone-first Expo app inspired by the supplied memory preservation flow: one 
 
 ## Open on your iPhone
 
-Install Node.js 22 LTS and Expo Go. Download this project to your computer, open a terminal in its folder, and run:
+Install Node.js 24 LTS and Expo Go. Download this project to your computer, open a terminal in its folder, and run:
 
 ```sh
 npm ci
 npm start
 ```
 
-Keep your computer and iPhone on the same Wi-Fi. Scan the terminal QR code with the iPhone Camera and open it in Expo Go. Use an Expo Go version compatible with Expo SDK 54. If your installed Expo Go requires a newer SDK, upgrade the project using Expo's SDK upgrade guide before running it. A cloud machine's LAN QR code is generally not reachable from your phone; run locally for this workflow.
+Keep your computer and iPhone on the same Wi-Fi. Scan the terminal QR code with the iPhone Camera and open it in Expo Go. Use an Expo Go version compatible with Expo SDK 58. If your installed Expo Go requires a newer SDK, upgrade the project using Expo's SDK upgrade guide before running it. A cloud machine's LAN QR code is generally not reachable from your phone; run locally for this workflow.
 
 ## Try the flow
 
